@@ -1,6 +1,6 @@
 ### Hi there 👋
-Im a Senior IT Engineering student currently experimenting on different projects /n
-which explains the mess in my repository :)
+Im a Senior IT Engineering student currently experimenting on different projects <br>
+which explains the mess in my repository :) <br>
 -🌱 I’m currently learning Kali Linux and Bash 
 -📫 How to reach me : ericpaul905@gmail.com 
 -My Linkedin Profile: www.linkedin.com/in/eric-paul-b48525252
