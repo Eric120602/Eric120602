@@ -1,8 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif))]
+
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Im a Senior IT Engineering student currently experimenting on different projects which explains the mess in my repository :)</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eric120602&label=Profile%20views&color=0e75b6&style=flat" alt="eric120602" /> </p>
 
