@@ -1,9 +1,9 @@
 ### Hi there 👋
-Im a Senior IT Engineering student currently experimenting on different projects
+Im a Senior IT Engineering student currently experimenting on different projects /n
 which explains the mess in my repository :)
-🌱 I’m currently learning Kali Linux and Bash 
-📫 How to reach me : ericpaul905@gmail.com 
-My Linkedin Profile: www.linkedin.com/in/eric-paul-b48525252
+-🌱 I’m currently learning Kali Linux and Bash 
+-📫 How to reach me : ericpaul905@gmail.com 
+-My Linkedin Profile: www.linkedin.com/in/eric-paul-b48525252
 
 <!--
 **Eric120602/Eric120602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
