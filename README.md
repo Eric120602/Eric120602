@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Im a Senior IT Engineering student currently experimenting on different projects which explains the mess in my repository :)</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eric120602&label=Profile%20views&color=0e75b6&style=flat" alt="eric120602" /> </p>
 
